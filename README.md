@@ -1,7 +1,7 @@
 ## Capsol
 A smart pill-box we created for IDEAHACKS 2020 @ UCLA. 
 
-Check out our devpost link : https://devpost.com/software/capsol
+Check out our devpost link : https://devpost.com/software/capsol \n
 Our demo: https://www.youtube.com/watch?v=29arU1M8RJE
 
 ## Inspiration
